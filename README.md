@@ -4,7 +4,7 @@
 
  ---
  <p align="center">
-  <img src="./orolight.jpeg" width="800">
+  <img src="./Orolight.jpeg" width="500">
 </p>
 
 ## Features
